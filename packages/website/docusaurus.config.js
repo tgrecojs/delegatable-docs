@@ -94,7 +94,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
         },
         announcementBar: {
           content:
-            '⭐️ If you like Delegatable, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/delegatable/delegatable.sol">GitHub</a>! ⭐️',
+            '⭐️ If you like Delegatable, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/delegatable/delegatable-sol">GitHub</a>! ⭐️',
         },
         footer: {
           // links: [
